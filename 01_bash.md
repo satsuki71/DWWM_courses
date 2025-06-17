@@ -1,5 +1,7 @@
 # Commandes BASH
 
+# Commandes BASH
+
 ## Navigation dans le système de fichiers
 
 | Commande | Description                             |
@@ -71,7 +73,8 @@
 | \`               | \`                                                  | Pipe : envoie la sortie d'une commande vers une autre |
 | `&&`             | Exécute la commande suivante si la première réussit |                                                       |
 | `;`              | Enchaîne les commandes                              |                                                       |
-| `bash script.sh` | Exécute un script Bash                              |                                                       |
+| `bash script.sh` | Exécute un script Bash                              |     
+
 
 ```js
 console.log("Hello World);
